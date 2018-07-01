@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Bubble Sort in C
+// O(n^2) ; Omega(n^2)
 int main()
 {
     int n = 0;
